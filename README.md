@@ -4,6 +4,7 @@
 * Version: `3.2.1 beta (#46)`
 * Project page: <http://haibison.github.io/android-lockpattern/>
 * API documentation: <http://haibison.github.io/android-lockpattern/apidocs>
+* Wiki: <https://github.com/haibison/android-lockpattern/wiki>
 * Demo: <https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo>
 
 --
