@@ -3,9 +3,8 @@
 * License: [Apache License v2.0]
 * Version: `3.2.1 beta (#46)`
 * Project page: <http://haibison.github.io/android-lockpattern/>
-* API documentation: <http://haibison.github.io/android-lockpattern/apidocs>
-* Wiki: <https://github.com/haibison/android-lockpattern/wiki>
 * Demo: <https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo>
+* For developers: [Wiki], [API documentation].
 
 --
 
@@ -287,3 +286,5 @@ project.  We hope this project will be always useful for everyone.
     + compare to existing pattern;
 
 [Apache License v2.0]: https://www.apache.org/licenses/LICENSE-2.0.html
+[Wiki]: https://github.com/haibison/android-lockpattern/wiki
+[API documentation]: http://haibison.github.io/android-lockpattern/apidocs
