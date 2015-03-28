@@ -1,6 +1,27 @@
 # android-lockpattern
 
-* Version: 3.2.1 beta (#46)
+* License: [Apache License v2.0]
+* Version: `3.2.1 beta (#46)`
+* Project page: <http://haibison.github.io/android-lockpattern/>
+* API documentation: <http://haibison.github.io/android-lockpattern/apidocs>
+* Demo: <https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo>
+
+--
+
+## Features
+
+* Requires: Android 2.1+ (API 7+).
+* Supports: Eclipse IDE; Android Studio (support is in beta).
+* *No dependencies.*
+* Designed for both *phones and tablets*.
+* Stealth mode (invisible pattern).
+* 5 built-in themes:
+  * Dark/Light
+  * Light with dark action bar (available from API 7+, but only works from API 14+)
+  * Dark/Light dialogs
+* Ability to generate and let the user verify CAPTCHA pattern.
+
+--
 
 Feel free to contact us at:
 
@@ -11,7 +32,7 @@ In short, you can use this library in your closed source/commercial apps with
 or without our knowledge. Hope you enjoy it  :-)
 
 
-# CREDITS
+# Credits
 
 We sincerely thank all of our friends -- who have been contributing to this
 project.  We hope this project will be always useful for everyone.
@@ -23,7 +44,7 @@ project.  We hope this project will be always useful for everyone.
 * And others.
 
 
-# HISTORY
+# History
 
 * Version 3.2.1 beta (#46)
     + *Initialize: January 23rd, 2015*
@@ -263,3 +284,5 @@ project.  We hope this project will be always useful for everyone.
     + first release;
     + create pattern;
     + compare to existing pattern;
+
+[Apache License v2.0]: https://www.apache.org/licenses/LICENSE-2.0.html
